@@ -264,8 +264,8 @@ hr {
 }
 
 .contact-image img {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
 }
 
@@ -284,6 +284,7 @@ footer {
   .skills-columns {
     margin-bottom: 1em;
   }
+
   .project-card {
     margin-bottom: 2em;
   }
